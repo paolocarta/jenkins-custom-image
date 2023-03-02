@@ -9,6 +9,7 @@ blueocean-pipeline-editor
 blueocean-web
 build-timeout
 configuration-as-code
+generic-webhook-trigger
 ghprb
 git
 git-changelog
@@ -37,6 +38,7 @@ lockable-resources
 matrix-auth
 matrix-project
 momentjs
+multibranch-scan-webhook-trigger
 nexus-artifact-uploader
 nexus-jenkins-plugin
 pipeline-github-lib
