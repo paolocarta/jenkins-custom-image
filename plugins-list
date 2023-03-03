@@ -1,5 +1,3 @@
-ant
-antisamy-markup-formatter
 authorize-project
 blueocean
 blueocean-dashboard
@@ -25,7 +23,6 @@ github-pr-coverage-status
 github-pullrequest
 gitlab-plugin
 gradle
-handlebars
 jacoco
 job-dsl
 kubernetes
@@ -37,7 +34,6 @@ kubernetes-pipeline-devops-steps
 lockable-resources
 matrix-auth
 matrix-project
-momentjs
 multibranch-scan-webhook-trigger
 nexus-artifact-uploader
 nexus-jenkins-plugin
